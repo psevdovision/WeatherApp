@@ -1,0 +1,7 @@
+dsn: "your_dsn"
+
+weather_api_key: "your_api_key"
+
+http_server:
+  port: ":3030"
+  timeout: 10s
